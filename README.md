@@ -1,1 +1,1 @@
-Gabriel Caja y Carlos Campos 1 Entrega
+La clase del MenuPrincipalRecursos.java es la clase main
